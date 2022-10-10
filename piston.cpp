@@ -1,6 +1,9 @@
 #include "piston.h"
+#include "sensor.h"
 
-Piston::Piston()
+piston::piston()
 {
-
+piston tempSensor;
+piston outputSensor;
+piston pressureSensor;
 }

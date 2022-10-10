@@ -2,5 +2,6 @@
 
 CoffeeMachine::CoffeeMachine()
 {
+   CoffeeMachine checkHandle;
 
 }

@@ -2,10 +2,10 @@
 #define PISTON_H
 
 
-class Piston
+class piston
 {
 public:
-   Piston();
+   piston();
 };
 
 #endif // PISTON_H
