@@ -10,8 +10,10 @@ add_executable(
    coffeemachine.cpp
    piston.cpp
    heater.cpp
+   sensor.cpp
 
    coffeemachine.h
    piston.h
    heater.h
+   sensor.h
    )
