@@ -1,6 +1,7 @@
 #include <string>
 #include <iostream>
 #include "coffeemachine.h"
+
 using namespace std;
 
 // The specific name of this (badge of) machines
