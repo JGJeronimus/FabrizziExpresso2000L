@@ -12,10 +12,12 @@ add_executable(
    heater.cpp
    sensor.cpp
    boiler.cpp
+   indicator.cpp
 
    coffeemachine.h
    piston.h
    heater.h
    sensor.h
    boiler.h
+   indicator.h
    )

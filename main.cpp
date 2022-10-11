@@ -1,11 +1,13 @@
+
+
 #include <string>
 #include <iostream>
 #include "coffeemachine.h"
 
 using namespace std;
 
-// The specific name of this (badge of) machines
-string machineName = "Fabrizzi Expresso 2000L";
+// The specific name or type of this machine:
+string machineName = "Fabrizzi Expresso 2000L V0.1";
 
 int main()
 {

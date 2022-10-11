@@ -4,5 +4,9 @@
 
 boiler::boiler()
 {
+boiler tempSensor;
+boiler outputSensor;
+boiler pressureSensor;
 
+boiler heater;
 }
