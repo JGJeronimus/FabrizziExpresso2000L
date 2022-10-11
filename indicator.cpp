@@ -1,6 +1,6 @@
 #include "indicator.h"
 
-indicator::indicator()
+indicator::faultIndicator()
 {
 
-}
+};

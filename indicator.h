@@ -5,7 +5,8 @@
 class indicator
 {
 public:
-   indicator();
+   faultIndicator();
+   pressureIndicator();
 };
 
 #endif // INDICATOR_H

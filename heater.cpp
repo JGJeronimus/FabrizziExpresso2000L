@@ -1,6 +1,9 @@
 #include "heater.h"
 
-heater::heater()
-{
+bool heaterON_OFF;
 
+void boilerHeater()
+{
+   void heat();
+   void idle();
 }

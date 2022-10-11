@@ -3,7 +3,7 @@
 
 piston::piston()
 {
-piston tempSensor;
-piston outputSensor;
-piston pressureSensor;
+piston pistonTempSensor;
+piston pistonOutputTempSensor;
+piston pistonPressureSensor;
 }

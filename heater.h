@@ -5,12 +5,7 @@
 
 class heater
 {
-public:
-   heater();
-   void heat();
-   void idle();
-private:
-   bool heaterON_OFF;
+heater();
 };
 
 #endif // HEATER_H
